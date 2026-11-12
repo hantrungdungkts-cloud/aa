@@ -1,0 +1,6 @@
+{
+  "name": "Quản Lý Công Việc Pro (TaskFlow)",
+  "description": "Ứng dụng quản lý công việc và dự án thông minh với bảng Kanban, ma trận Eisenhower, đồng hồ Pomodoro và phân tích năng suất.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
